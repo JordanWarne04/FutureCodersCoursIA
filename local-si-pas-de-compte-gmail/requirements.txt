@@ -1,0 +1,17 @@
+# Interface Jupyter (VS Code ou Jupyter Notebook)
+notebook
+ipykernel
+# Données et calcul
+numpy
+pandas
+pillow
+# Visualisation
+matplotlib
+# Vision par ordinateur
+opencv-python
+# Machine learning / deep learning
+scikit-learn
+tensorflow
+tf-keras-vis
+# Téléchargement d'images
+bing-image-downloader==1.0.4
